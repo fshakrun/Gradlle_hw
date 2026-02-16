@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-// 2. Общие настройки для всех проектов (включая корневой)
+// Общие настройки
 allprojects {
     group = 'ru.netology'
     version = '1.0-SNAPSHOT'
